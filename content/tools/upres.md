@@ -5,13 +5,12 @@ subtitle: 'AI image and video upscaler up to 8K'
 slug: 'upres'
 description: 'UpRes is a multi-model AI upscaling platform supporting resolutions up to 8K. It features specialized models for photos, portraits, illustrations, and videos, alongside a developer API, CLI, and MCP server for automated production workflows.'
 website: 'https://upres.ai'
-company: 'auroracapital'
 logo_url: ''
 category: 'video-enhancer'
 category_name: 'Video Enhancer'
 price: 'Freemium'
 featured: false
-rank: 5
+rank: 8
 alternatives:
   - real-esrgan
   - topaz-video-ai
